@@ -1,0 +1,10 @@
+org\hvferreira\GameImpl.class
+org\hvferreira\GuessCount.class
+org\hvferreira\MinNumber.class
+org\hvferreira\config\GameConfig.class
+org\hvferreira\Game.class
+org\hvferreira\NumberGenerator.class
+org\hvferreira\MaxNumber.class
+org\hvferreira\MessageGeneratorImpl.class
+org\hvferreira\MessageGenerator.class
+org\hvferreira\NumberGeneratorImpl.class
